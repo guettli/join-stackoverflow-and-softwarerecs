@@ -21,3 +21,4 @@ I maintain this simple list to underline my argumentation that softwarerecs shou
 
 http://stackoverflow.com/questions/3521692/how-can-i-access-oracle-from-python How can I access Oracle from Python?
 
+http://stackoverflow.com/questions/43367355/translate-unicode-to-ascii-if-po Translate Unicode to ascii. The matching term is "Homoglyph"
