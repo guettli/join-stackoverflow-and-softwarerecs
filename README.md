@@ -13,7 +13,7 @@ You have a use case, but no clue how to solve this.
 Maybe you need several hours of coding or you just need to install some magic library `do_magic_for_you`
 and you just need a single line of source code to get your use case solved.
 
-Again, if you a new comer you use have a question - no strategy and that's good.
+Again, if you a new comer you just have a question - no strategy and that's good.
 
 # List of Questions at stackoverflow which belong to softwarerecs
 
