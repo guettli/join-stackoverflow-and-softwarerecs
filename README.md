@@ -24,3 +24,5 @@ http://stackoverflow.com/questions/3521692/how-can-i-access-oracle-from-python H
 http://stackoverflow.com/questions/43367355/translate-unicode-to-ascii-if-po Translate Unicode to ascii. The matching term is "Homoglyph"
 
 http://stackoverflow.com/a/44052890/633961 I was not aware of the library "requests-mock".
+
+https://stackoverflow.com/questions/50170588/list-dependencies-of-python-wheel-file
