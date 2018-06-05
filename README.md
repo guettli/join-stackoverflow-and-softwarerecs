@@ -26,3 +26,5 @@ http://stackoverflow.com/questions/43367355/translate-unicode-to-ascii-if-po Tra
 http://stackoverflow.com/a/44052890/633961 I was not aware of the library "requests-mock".
 
 https://stackoverflow.com/questions/50170588/list-dependencies-of-python-wheel-file
+
+https://stackoverflow.com/a/50690735/633961 Python module “trace”: file path missing
